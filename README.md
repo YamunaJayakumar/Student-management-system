@@ -1,1 +1,1 @@
-Asimple Student Management Sytem using Python Django
+A simple Student Management Sytem using Python Django
